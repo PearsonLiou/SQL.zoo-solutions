@@ -1,6 +1,6 @@
 # SQL.zoo-solutions
 
-Here is all solutions for SQL.zoo
+Here is all of my solutions for SQL.zoo
 
 Programming Language : MSSQL, SQL server
 
